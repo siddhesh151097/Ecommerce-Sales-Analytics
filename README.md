@@ -39,7 +39,19 @@ This project was completed as part of a certified Data Analytics internship. It 
 - presentation: Summary presentation
 - certificate: Internship certificate
 
-## Author
+
+---
+
+## 🚀 Large Files Access (Important)
+Due to GitHub file size limitations, large files are hosted externally on Google Drive.
+
+- 📊 **Power BI Dashboard (.pbix):** [Download here](https://drive.google.com/drive/folders/147kL1uRWarPu1UaUtTHdx-97BQLPzEGe?usp=sharing)
+- 📊 **Tableau Dashboard (.twbx):** [Download here](https://drive.google.com/drive/folders/11JQP8CCGONdLbdovhCFhEKji1t650TST?usp=sharing)
+- 📄 **Excel Dataset (.xlsx):** [Download here](https://drive.google.com/drive/folders/1kEmVIzVv37znbeaKM-H93cW3VPRczC7s?usp=sharing)
+- 📽️ **Excel Dashboard (.xlsx):** [Download here](https://drive.google.com/drive/folders/1cm49Yey8dLrRkTWSNEjwNsauUtLcrVaa?usp=sharing)
+
+
+## 👤 Author
 Siddhesh Deshmukh  
 Email: siddhesh.deshmukh36@gmail.com  
 LinkedIn: 
