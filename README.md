@@ -37,7 +37,6 @@ This project was completed as part of a certified Data Analytics internship. It 
 - powerbi: Power BI dashboards
 - tableau: Tableau dashboards
 - presentation: Summary presentation
-- certificate: Internship certificate
 
 
 ---
